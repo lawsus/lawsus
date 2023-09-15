@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🧑🏻‍💻 I'm a junior at UIUC majoring in mathematics and computer science
-- 🌱 I’m currently learning machine learning
+- 🧑🏻‍💻 I'm a junior at UIUC majoring in computer science and mathematics
 - 👀 Looking for internships and research opportunities
 - 💻 Find my blog on [medium](https://medium.com/@lawsus)
 - 📫 Contact me [@dk31@illinois.edu](mailto:dk31@illinois.edu) 
